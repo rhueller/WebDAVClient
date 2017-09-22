@@ -188,3 +188,6 @@ FakesAssemblies/
 packages
 !packages/repositories.config
 /.localhistory
+
+# Private Signing Keys
+StrongNameKey*/
